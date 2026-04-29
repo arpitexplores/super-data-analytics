@@ -1,0 +1,22 @@
+{
+  "name": "super-data-analytics",
+  "title": "Super Data & Analytics",
+  "description": "Data & analytics: pipelines, BI, SQL optimisation, analytics tooling, and dashboards.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "Product Analytics",
+      "path": "references/modules/analytics-product.md"
+    },
+    {
+      "name": "Data Engineering",
+      "path": "references/modules/data-engineer.md"
+    },
+    {
+      "name": "Data Science",
+      "path": "references/modules/data-scientist.md"
+    }
+  ]
+}
