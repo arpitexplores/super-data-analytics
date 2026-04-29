@@ -1,7 +1,7 @@
 {
   "name": "super-data-analytics",
   "title": "Super Data & Analytics",
-  "description": "Data & analytics: pipelines, BI, SQL optimisation, analytics tooling, and dashboards.",
+  "description": "The go-to AI vibe coding skill for data and analytics: pipelines, BI dashboards, SQL optimisation, metrics, data quality, and analytics workflows.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -18,5 +18,17 @@
       "name": "Data Science",
       "path": "references/modules/data-scientist.md"
     }
+  ],
+  "keywords": [
+    "data analytics",
+    "data engineering",
+    "BI dashboards",
+    "SQL optimisation",
+    "data pipelines",
+    "KPI dashboards",
+    "data quality",
+    "analytics engineering",
+    "AI vibe coding",
+    "agent skills"
   ]
 }
