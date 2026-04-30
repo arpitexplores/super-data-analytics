@@ -2,7 +2,7 @@
   "name": "super-data-analytics",
   "title": "Super Data & Analytics",
   "description": "The go-to AI vibe coding skill for data and analytics: pipelines, BI dashboards, SQL optimisation, metrics, data quality, and analytics workflows.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
